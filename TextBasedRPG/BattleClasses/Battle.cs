@@ -1,6 +1,9 @@
 ﻿using System;
+using TextBasedRPG.CharacterClasses;
+using TextBasedRPG.EnemyClasses;
+using TextBasedRPG.MainGameClasses;
 
-namespace TextBasedRPG
+namespace TextBasedRPG.BattleClasses
 {
     public class Battle
     {
